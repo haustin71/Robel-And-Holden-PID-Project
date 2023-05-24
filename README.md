@@ -14,7 +14,7 @@ Our Planning Document can be found [here](https://docs.google.com/document/d/19G
 # CAD
 
 
-# Wiring Diagram
+# Wiring_Diagram
 
 
 # Code 
