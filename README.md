@@ -6,7 +6,7 @@ Our Planning Document can be found [here](https://docs.google.com/document/d/19G
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
 * [CAD](#CAD)
-* [Wiring Diagram](#Wiring Diagram)
+* [Wiring Diagram](#Wiring_Diagram)
 * [Code](#Code)
 * [Working Prototype](#Working_Prototype)
 * [Reflection](#Reflection)
