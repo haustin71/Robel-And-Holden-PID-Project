@@ -164,7 +164,7 @@ Here is a video of the Car spinning, we couldn't get it to follow the line but i
 (https://drive.google.com/file/d/1Naclon4Qbiw_vXSGhq8xGBdsn7rGnV0l/view)
 
 Here are some pictures of the finished Car
-()
+![PID Car Prototype 1]()
 
 # Reflection
 Overall, we think that this project went very well because we ended up finishing it. Our last project wasn't finished because we didn't manage our time. We learned from our mistakes that we made on the last project. Unfortunately, we had finished code that worked but we couldn't tune it to get the robot to actually follow a line. The robot is fully finished with it working it's just that the hardest part was getting the 4 IR sensors to detect the line. The biggest issue with the code was tuning it to read the line because we were trying to get the farthest left and right sensors to turn when they detected a white line and have the middle sensors detect the black tape. 
