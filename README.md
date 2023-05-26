@@ -24,3 +24,4 @@ Our Planning Document can be found [here](https://docs.google.com/document/d/19G
 
 
 # Reflection
+Overall, we think taht this project went very well because we ended up finishing it. Our last project wasn't finished because we didn't manage our time. We learned from our mistakes that we made on the last project
