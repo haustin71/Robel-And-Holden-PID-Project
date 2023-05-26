@@ -12,9 +12,9 @@ Our Planning Document can be found [here](https://docs.google.com/document/d/19G
 * [Reflection](#Reflection)
 
 # CAD
-[Car CAD 1](https://raw.githubusercontent.com/haustin71/Robel-And-Holden-PID-Project/master/Car%201.PNG?token=GHSAT0AAAAAACCFZ2BCHS2X6RA5SYN7JMT4ZDRDL4A)
+![Car CAD 1](https://raw.githubusercontent.com/haustin71/Robel-And-Holden-PID-Project/master/Car%201.PNG?token=GHSAT0AAAAAACCFZ2BCHS2X6RA5SYN7JMT4ZDRDL4A)
 
-[Car CAD 2](https://raw.githubusercontent.com/haustin71/Robel-And-Holden-PID-Project/master/Car%202.PNG?token=GHSAT0AAAAAACCFZ2BCC3VBTXUV6KOAEZ5KZDRDMYQ)
+![Car CAD 2](https://raw.githubusercontent.com/haustin71/Robel-And-Holden-PID-Project/master/Car%202.PNG?token=GHSAT0AAAAAACCFZ2BCC3VBTXUV6KOAEZ5KZDRDMYQ)
 
 
 # Wiring_Diagram
