@@ -18,7 +18,7 @@ Our Planning Document can be found [here](https://docs.google.com/document/d/19G
 
 
 # Wiring_Diagram
-
+![PID Car Wiring Diagram](https://github.com/haustin71/Robel-And-Holden-PID-Project/blob/4b426de2f49d4c6957aa70733929435009ebf02a/Magnificent%20Kasi.png)
 
 # Code 
 Here is the code that we are currently using 
